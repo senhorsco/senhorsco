@@ -32,18 +32,18 @@ Aşağıdaki projeler, yeteneklerimi pratiğe döktüğüm bazı alanlardır:
 
 Sürekli yeni şeyler öğreniyor ve mevcut yeteneklerimi derinleştiriyorum.
 
-**Backend & Core:** ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=239120)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=ED8B00)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+**Backend & Core:** ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend:**
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-**Ortamlar & Araçlar:** ![Kali](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=557C94)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+**Ortamlar & Araçlar:** ![Kali](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
 ---
@@ -57,8 +57,8 @@ Sürekli yeni şeyler öğreniyor ve mevcut yeteneklerimi derinleştiriyorum.
 
 ---
 
-## ⚡ Kod Dışında Ben...
-Sürekli bilgisayar başında oturmuyorum! Disiplinimi **vücut geliştirme ve fitness** rutinlerimle koruyor, makro takibimi (o yulaflar ve tavuklar yenecek!) eksik etmiyorum. Rekabet hissini sevdiğim için boş vakitlerimde LoL, GTA 5 veya Brawlhalla arenalarına girerim. Ayrıca siber güvenlik ve donanım optimizasyonları kurcalamayı en sevdiğim hobilerimden.
+## ⚡ Bazen.
+Disiplinimi **vücut geliştirme ve fitness** rutinlerimle koruyor, Rekabet hissini sevdiğim için boş vakitlerimde Valorant, Arc Raiders veya Brawlhalla arenalarına girerim. Ayrıca siber güvenlik ve donanım optimizasyonları kurcalamayı en sevdiğim hobilerimden.
 
 <div align="center">
   <i>"Bir sistemi sadece kullanmakla kalma, nasıl bozulduğunu ve nasıl daha iyi inşa edileceğini öğren."</i>
