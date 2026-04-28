@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Selam,+Ben+Efe!;C%2B%2B+Developer;Backend+M%C3%BChendisi+Aday%C4%B1;Bilgisayar+Programc%C4%B1s%C4%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Selam,+Ben+Efe!;C%2B%2B+Developer;Backend+M%C3%BChendisi;Bilgisayar+Programc%C4%B1s%C4%B1" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,7 +15,6 @@
 Elektronik altyapısı ile başlayan serüvenimi, şu an Biruni Üniversitesi'nde Bilgisayar Programcılığı okuyarak yazılım dünyasına taşıyorum. Önümüzdeki en büyük hedefim DGS ile Yazılım Mühendisliği bölümüne geçiş yapmak. Şu an aktif olarak çalışmıyorum, tüm odağımı kendimi geliştirmeye, sağlam projelere imza atmaya ve harika bir staj deneyimi elde etmeye verdim.
 
 Sadece kod yazmayı değil, sistemlerin nasıl çalıştığını anlamayı seviyorum.
-
 ---
 
 ## 🚀 Öne Çıkan Çalışmalarım & Projelerim
@@ -32,19 +31,19 @@ Aşağıdaki projeler, yeteneklerimi pratiğe döktüğüm bazı alanlardır:
 
 Sürekli yeni şeyler öğreniyor ve mevcut yeteneklerimi derinleştiriyorum.
 
-**Backend & Core:** ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
+**Backend & Core:** ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend:**
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Ortamlar & Araçlar:** ![Kali](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+**Ortamlar & Araçlar:** ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
@@ -57,7 +56,7 @@ Sürekli yeni şeyler öğreniyor ve mevcut yeteneklerimi derinleştiriyorum.
 
 ---
 
-## ⚡ Bazen.
+## ⚡ Kod Dışında Ben...
 Disiplinimi **vücut geliştirme ve fitness** rutinlerimle koruyor, Rekabet hissini sevdiğim için boş vakitlerimde Valorant, Arc Raiders veya Brawlhalla arenalarına girerim. Ayrıca siber güvenlik ve donanım optimizasyonları kurcalamayı en sevdiğim hobilerimden.
 
 <div align="center">
