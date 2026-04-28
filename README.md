@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Selam,%20Ben%20İbrahim%20Efe!&fontSize=50&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Selam,%20Ben%20%20Efe!&fontSize=50&fontAlignY=35&animation=twinkling" />
 </div>
 
 <h3 align="center">
