@@ -27,7 +27,7 @@ Aşağıdaki projeler, yeteneklerimi pratiğe döktüğüm bazı alanlardır:
 
 ---
 
-## 🛠️ Teknik Yeteneklerim (Tech Stack)
+## 🛠️ Tech Stack
 
 Sürekli yeni şeyler öğreniyor ve mevcut yeteneklerimi derinleştiriyorum.
 
