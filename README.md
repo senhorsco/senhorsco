@@ -6,12 +6,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Kernel-000000?style=flat-square&logo=linux&logoColor=white" alt="Kernel" />
+  <img src="https://img.shields.io/badge/Windows%20API-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows API" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-151515?style=flat-square&logo=hackthebox&logoColor=white" alt="Reverse Engineering" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/sql-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+
 </p>
 
 ---
