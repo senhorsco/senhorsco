@@ -1,7 +1,8 @@
-<h1 align="center">Hi, I'm Efe!</h1>
+<h1 align="center">Hi there, I'm Efe! 👋</h1>
+<h3 align="center">Backend Enthusiast & Future Software Engineer 🚀</h3>
 
 <p align="center">
-  <a href="https://efeturan.netlify.app"><b>MY PORTFOLIO SITE</b></a>
+  <a href="https://efeturan.netlify.app"><b>🌐 EXPLORE MY PORTFOLIO</b></a>
 </p>
 
 ### 👨‍💻 Efe Turan
@@ -47,4 +48,4 @@ I am constantly learning new things and deepening my existing skills.
 
 I maintain my discipline with my bodybuilding and fitness routines. Since I love the feeling of competition, I jump into the arenas of Valorant, Arc Raiders, or Brawlhalla in my spare time. Also, tinkering with cybersecurity and hardware optimization is among my favorite hobbies.
 
-> *"Don't just use a system; learn how it breaks and how it can be built better."*
+> *"Anyone can use a system. A true engineer deconstructs it, learns how it breaks, and rebuilds it stronger."*
