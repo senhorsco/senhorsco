@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Kernel-000000?style=flat-square&logo=linux&logoColor=white" alt="Kernel" />
   <img src="https://img.shields.io/badge/Windows%20API-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows API" />
   <img src="https://img.shields.io/badge/Reverse%20Engineering-151515?style=flat-square&logo=hackthebox&logoColor=white" alt="Reverse Engineering" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/sql-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
 
 </p>
 
