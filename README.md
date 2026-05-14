@@ -1,64 +1,50 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Selam,+Ben+Efe!;C%2B%2B+Developer;Backend+M%C3%BChendisi;" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi, I'm Efe!</h1>
 
-<div align="center">
-  <a href="https://efeturan.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolyo_Sitem-0D1117?style=for-the-badge&logo=About.me&logoColor=58A6FF" alt="Portfolio" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://efeturan.netlify.app"><b>MY PORTFOLIO SITE</b></a>
+</p>
 
-<br/>
+### 👨‍💻 Efe Turan
 
-## 👨‍💻 Efe Turan
+I am carrying my journey, which started with an electronics background, into the software world by currently studying Computer Programming at Biruni University. My biggest goal ahead is to transfer to the Software Engineering department via the DGS exam. I am not actively working right now; my entire focus is on self-improvement, building robust projects, and securing a great internship experience.
 
-Elektronik altyapısı ile başlayan serüvenimi, şu an Biruni Üniversitesi'nde Bilgisayar Programcılığı okuyarak yazılım dünyasına taşıyorum. Önümüzdeki en büyük hedefim DGS ile Yazılım Mühendisliği bölümüne geçiş yapmak. Şu an aktif olarak çalışmıyorum, tüm odağımı kendimi geliştirmeye, sağlam projelere imza atmaya ve harika bir staj deneyimi elde etmeye verdim.
-
-Sadece kod yazmayı değil, sistemlerin nasıl çalıştığını anlamayı seviyorum.
----
-
-## 🚀 Öne Çıkan Çalışmalarım & Projelerim
-
-Aşağıdaki projeler, yeteneklerimi pratiğe döktüğüm bazı alanlardır:
-
-- 🔐 **C++ Password Manager:** Özel XOR şifreleme algoritması ve lokal dosya I/O işlemleri barındıran, konsol tabanlı güvenli bir şifre kasası.
-- ⚙️ **C++ REST API:** Modern web teknolojileriyle haberleşebilen, JSON tabanlı uçtan uca Online Quiz Backend sistemi.
-- 🛍️ **Ticari Web Çözümleri:** **ESA Klima** (Midea bayisi) ve **Feyella** (Giyim markası) için geliştirdiğim kurumsal web arayüzü ve entegrasyon projeleri.
+### I love not just writing code, but understanding how systems work.
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Featured Works & Projects
 
-Sürekli yeni şeyler öğreniyor ve mevcut yeteneklerimi derinleştiriyorum.
+The following projects are some areas where I put my skills into practice:
 
-**Backend & Core:** ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Ortamlar & Araçlar:** ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+* 🔒 **C++ Password Manager:** A console-based secure password vault featuring a custom XOR encryption algorithm and local file I/O operations.
+* ⚙️ **C++ REST API:** A JSON-based end-to-end Online Quiz Backend system capable of communicating with modern web technologies.
+* 🛍️ **Commercial Web Solutions:** Corporate web interface and integration projects I developed for ESA Klima (Midea dealer) and Feyella (Clothing brand).
 
 ---
 
-## 📊 GitHub İstatistiklerim
+### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senhorsco&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Efe's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senhorsco&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
-</div>
+I am constantly learning new things and deepening my existing skills.
+
+**Backend & Core:** ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Frontend:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Environments & Tools:** ![Kali](https://img.shields.io/badge/Kali-%23268BCC.svg?style=for-the-badge&logo=kalilinux&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ---
 
-## ⚡ Kod Dışında Ben...
-Disiplinimi **vücut geliştirme ve fitness** rutinlerimle koruyor, Rekabet hissini sevdiğim için boş vakitlerimde Valorant, Arc Raiders veya Brawlhalla arenalarına girerim. Ayrıca siber güvenlik ve donanım optimizasyonları kurcalamayı en sevdiğim hobilerimden.
+### 📊 My GitHub Stats
 
-<div align="center">
-  <i>"Bir sistemi sadece kullanmakla kalma, nasıl bozulduğunu ve nasıl daha iyi inşa edileceğini öğren."</i>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=senhorsco&show_icons=true&theme=tokyonight" alt="Efe's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senhorsco&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### ⚡ Beyond Coding...
+
+I maintain my discipline with my bodybuilding and fitness routines. Since I love the feeling of competition, I jump into the arenas of Valorant, Arc Raiders, or Brawlhalla in my spare time. Also, tinkering with cybersecurity and hardware optimization is among my favorite hobbies.
+
+> *"Don't just use a system; learn how it breaks and how it can be built better."*
